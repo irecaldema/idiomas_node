@@ -1,0 +1,19 @@
+{
+  "name": "idiomas_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irecaldema/idiomas_node.git"
+  },
+  "author": "Iosu Recalde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irecaldema/idiomas_node/issues"
+  },
+  "homepage": "https://github.com/irecaldema/idiomas_node#readme"
+}
